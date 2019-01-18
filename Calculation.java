@@ -16,7 +16,6 @@ public class Calculation {
 		
 		System.out.println("Enter Radius in centimeter:");
 		double radius = sc.nextDouble();
-
 		double area = 3.14 * radius * radius;
 		System.out.println("The area of circle is:"+area+" square centimeters.");
 		
